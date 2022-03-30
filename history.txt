@@ -1,0 +1,34 @@
+    1  gh
+    2  version --
+    3  ghj
+    4  gh
+    5  clear
+    6  gh
+    7  gh auth login --web
+    8  gh auth login --web
+    9  CLEAR
+   10  gh auth login --web
+   11  git branch -M main
+   12  git init
+   13  touch README.md
+   14  pwd
+   15  cd
+   16  touch
+   17  jobs
+   18  pwd
+   19  pwd
+   20  git init
+   21  gh
+   22  touch README.md
+   23  git -v
+   24  pwd
+   25  cd
+   26  master
+   27  main
+   28  npm install -g npm
+   29  npx create-react-app wilmyplay-app
+   30  cd wilmyplay-app
+   31  ls -a
+   32  cat .gitignore
+   33  npm start
+   34  history > history.txt
